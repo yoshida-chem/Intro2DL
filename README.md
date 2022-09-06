@@ -18,7 +18,9 @@ poetry install
 
 # 目次
 
-1. 
+1. pytorchの基礎
+2. pytorchの基礎続き：XORを題材にDLのお試し
+
 
 
 
