@@ -36,7 +36,7 @@ poetry install
 9. Autoencoders, VAE
 10. Vision Transformers
 11. Meta Learning - Learning to Learn
-12. Self-Supervised Contrastive Learning with SimCLR
+12. Self-Supervised Contrastive Learning with SimCLR, BYOLとか
 16. 推論の信頼性
 17. 説明と可視化
 18. いろいろな学習方法
