@@ -23,8 +23,7 @@ poetry install
 3. 活性化関数
 4. 初期化
 5. 最適化
-6. 回帰/２値分類、他クラス分類、マルチラベル分類/順序、マルチインプット, マルチタスク, sample weightとか
-7. dropout, 正則化、正規化
+6. 回帰/２値分類、他クラス分類、マルチラベル分類/順序、マルチインプット, マルチタスク
 8. Inception, ResNet and DenseNet
 9. object detection
 10. instance segmentation
