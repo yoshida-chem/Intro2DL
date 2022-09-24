@@ -24,22 +24,24 @@ poetry install
 4. 初期化
 5. 最適化
 6. 回帰/２値分類、他クラス分類、マルチラベル分類/順序、マルチインプット, マルチタスク
-8. Inception, ResNet and DenseNet
-9. object detection
-10. instance segmentation
-11. semantic segmentation
+7. Inception, ResNet and DenseNet
+8. object detection
+9. instance segmentation
+10. semantic segmentation
     faster-rcnn/resnet-v2, TF2 detection model zonn(難易度低いなら、SSD, yolo)
     https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
-7. Transformers and Multi-Head Attention
-8. Graph Neural Networks, Message Passing NN とか
-9. Autoencoders, VAE
-10. Vision Transformers
-11. Meta Learning - Learning to Learn
-12. Self-Supervised Contrastive Learning with SimCLR, BYOLとか
-16. 推論の信頼性
-17. 説明と可視化
-18. いろいろな学習方法
-19. データが少ない場合
+11. 異常検知
+12. Transformers and Multi-Head Attention
+13. Graph Neural Networks, Message Passing NN とか
+14. Autoencoders, VAE
+15. Vision Transformers
+16. Meta Learning - Learning to Learn
+17. Self-Supervised Contrastive Learning with SimCLR, BYOLとか
+18. Few-Shot, Zero-Shot
+19. 推論の信頼性
+20. 説明と可視化
+21. いろいろな学習方法
+22. データが少ない場合
 
 # その他生成モデルとか 
 9. Deep Energy Models
