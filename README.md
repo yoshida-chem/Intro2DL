@@ -23,7 +23,8 @@ poetry install
 3. 活性化関数
 4. 初期化
 5. 最適化
-6. 回帰/２値分類、他クラス分類、マルチラベル分類/順序、マルチインプット, マルチタスク
+6. 回帰/２値分類、他クラス分類、マルチラベル分類
+6-5. Colab環境の構築（githubとの連携、clone, pushまで.モデルなど重いファイルは別途GoogleDriveかローカルへダウンロード）
 7. Inception, ResNet and DenseNet
 8. object detection
 9. instance segmentation
